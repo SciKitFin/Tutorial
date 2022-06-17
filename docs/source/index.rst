@@ -9,6 +9,12 @@ and offers a *simple* and *intuitive* API.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
+If :math:`\sigma_{1}` equals :math:`\sigma_{2}` then etc, etc.
+
+.. math::
+
+   \alpha=2
+
 .. note::
 
    This project is under active development.
